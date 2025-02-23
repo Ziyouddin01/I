@@ -14,7 +14,7 @@
 
 ## Навыки
 - RestApi,Python
-- Git, GitHub
+- GitHub
 
 ## Проекты
 - [Проект 1](https://github.com/Ziyouddin01/Nike-Blog): Первый проект
